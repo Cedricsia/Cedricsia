@@ -17,10 +17,6 @@
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io)](https://github.com/Cedricsia/cedricsia.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=MCU_Timeline)](https://github.com/Cedricsia/MCU_Timeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=TimeHub-Project)](https://github.com/Cedricsia/TimeHub-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=World-Catastrophe-Survival)](https://github.com/Cedricsia/World-Catastrophe-Survival)
  <!-- Carte de lecteur de README 1 -->
   <a href="https://github.com/Cedricsia/cedricsia.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io" />
