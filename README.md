@@ -36,7 +36,7 @@
   <a href="https://github.com/Cedricsia/World-Catastrophe-Survival">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=World-Catastrophe-Survival" />
   </a>
-
+ 
 </div>
 
 
