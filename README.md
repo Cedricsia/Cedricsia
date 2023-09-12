@@ -16,6 +16,7 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 
 </div>
+<h2>Projects :</h2>
 
 <div  align="center">
   <a href="https://github.com/Cedricsia/cedricsia.github.io">
