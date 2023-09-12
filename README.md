@@ -16,5 +16,5 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
 
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io)](https://github.com/Cedricsia/cedricsia.github.io)
 
