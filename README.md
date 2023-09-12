@@ -20,5 +20,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=MCU_Timeline)](https://github.com/Cedricsia/MCU_Timeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=TimeHub-Project)](https://github.com/Cedricsia/TimeHub-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=World-Catastrophe-Survival)](https://github.com/Cedricsia/World-Catastrophe-Survival)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
