@@ -17,17 +17,17 @@
 
 </div>
 
- <!-- Carte de lecteur de README 1 -->
+<div  align="center">
   <a href="https://github.com/Cedricsia/cedricsia.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io" />
   </a>
 
-  <!-- Carte de lecteur de README 2 -->
+
   <a href="https://github.com/Cedricsia/MCU_Timeline">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=MCU_Timeline" />
   </a>
 
-  <!-- Carte de lecteur de README 3 -->
+
   <a href="https://github.com/Cedricsia/TimeHub-Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=TimeHub-Project" />
   </a>
@@ -37,5 +37,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=World-Catastrophe-Survival" />
   </a>
 
+</div>
 
 
