@@ -19,8 +19,8 @@
 <h2>Projects :</h2>
 
 <div  align="center">
-  <a href="https://github.com/Cedricsia/cedricsia.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=cedricsia.github.io" />
+  <a href="https://github.com/Cedricsia/Eating-Nam-Nam">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cedricsia&repo=Eating-Nam-Nam" />
   </a>
 
   <a href="https://github.com/Cedricsia/TimeHub-Project">
